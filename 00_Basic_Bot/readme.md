@@ -2,6 +2,6 @@
 
 ## Progress:
 
-- [] Python
-- [] Javascript
-- [] Java
+- [ ] Python
+- [ ] Javascript
+- [ ] Java
