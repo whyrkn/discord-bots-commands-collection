@@ -1,6 +1,6 @@
 # Basic structure of every discord bot
 
-## Progress:
+## Checklist:
 
 - [ ] Python
 - [ ] Javascript
